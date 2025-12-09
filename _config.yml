@@ -1,2 +1,14 @@
-theme: jekyll-theme-minimal
 title: Appalachian Spring - A Declaration of Post-American Autonomy
+description: > # Write a short description to appear in your site's metadata.
+  An Appalachian post-internet ideological document.
+
+# Sets the internal theme for standard GitHub Pages processing
+theme: jekyll-theme-minimal 
+
+# Exclude files for a clean build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Set the URL where GitHub will serve the assets
+baseurl: "" # Keep this blank unless you are hosting in a subdirectory
