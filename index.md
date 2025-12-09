@@ -1,7 +1,7 @@
 _unc plug_
 
-# Prologue
-
+<details>
+<summary>Prologue</summary>
 Imagine for a moment, if ye may, that **you’ve opened your eyes for the very first time in your life**.
 
 You look around you as the raging red intensity of a towering and dimly-lit cathedral invokes a sense of mystic dread within your spiritual psyche, echoing a Renaissance art style which preceded you and your family by 500 years, on a continent that you couldn’t even _consider_ thinking about affording to visit now, **even in the most patriotic of imperial dreams**, where your labor and identity are valued enough that you were able to **reclaim** a fair amount of **your time** from the **legalized indentured servitude that you were coerced into** by way of a natural birth.
@@ -51,9 +51,14 @@ A crude **caricature** of a failed businessman sits at the head of the table, **
 The red-headed stepchild of the cathedral, a suppressed creole nation of **mountain folks**, descended from **displaced Indigenous peoples who built the foundations of regional folk knowledge**, **freed Black Americans** who brought **spiritual**, **musical**, and **linguistic influence**, **Scots-Irish subsistence farmers** united **against tyrannical government**, and **a kaleidoscope of emerging voices** **from all over the globe**, stands up and **breaks free from the chains that bound it to the ground**.
 
 "**Appalachian** **Spring**."
+</details>
 
-# Appalachian Identity
 
+
+
+
+<details>
+<summary>Appalachian Identity</summary>
 > _"If you call it apple aysha, I'll throw an apple atcha."_ - **Unknown**
 
 Can you feel that sweet mountain spirit down in your veins?
@@ -137,9 +142,15 @@ We **choose** to not tolerate hate by **collectively using democratized knowledg
 I truly believe that **love always wins**, and I truly believe that **Appalachia is a place filled to the brim and overflowing with love**, but it's also a place that has been manipulated by forces much larger than it, and **we've lost ourselves in the chaos**...
 
 > _“And no matter where I might roam, these hills and hollers are my home. I’ve got that sweet mountain spirit down in my veins.”_ - **Alan Johnston** / **Del McCoury**
+</details>
 
-# Appalachian Exploitation
 
+
+
+
+
+<details>
+<summary>Appalachian Exploitation</summary>
 > _"How many boys could they haul off this mountain? Shoot full of holes cuffed and layin in the streets? Til we come into town in a stark ravin anger looking for answers and armed to the teeth?"_ - **Tyler Childers**
 
 An **unspoken imperial civil war rages in guerrilla combat**, with **patterns of systemic and uncontrolled ethnic cleansing along the way**, all because a substantial portion of the immigrants that set sail lost their vision. Whether that was on the boats, or in the process of developing the societies that arose from the original settlements, somewhere along the way a group of **sociopathic opportunists** saw the "new" land as a chance to create a **great experiment.**
@@ -379,9 +390,15 @@ I should also add that I am **not** suicidal and **I have my mental health under
 **Appalachians strongly believe in peaceful revolution**, and **many of my Appalachian kinfolk see revolution as an inevitability**, but **I _know_ that the empire disagrees with our view**...
 
 > _"Thirty-ought sixes, Pappaw's old pistol, how many do ya reckon? Would it be four or five? Or would that be the start of a long violent history of tucking our tails as we tried to abide?"_ - **Tyler Childers**
+</details>
 
-# Appalachian Zoo
 
+
+
+
+
+<details>
+<summary>Appalachian Zoo</summary>
 > "What's _a chummer to do in the Appalachian zoo? I'm Harambe and the bullets they're usin' are riotproof, no call for a truce... this is dead red aggression, rigged in elections, bred with cynicism and depression..._" - **Tantra Sweet**
 
 **Many Appalachians** are blessed enough _right now_ to **have never given any serious thought to how a situation might arise in which _you_ become targeted by your government**, but **this moment is going to be the best chance you have for a while**, because at the time of writing this, **the empire's mask is dropping on us like an accelerating atom bomb**.
@@ -611,9 +628,15 @@ You've always been free to do it. Folks around here been saying it for centuries
 **In a year characterized by a cryptic document said to bring about the end of American democracy**, **reality demonstrated that document to be the catalyst for starting the necessary conversation that we need to have until we reach our destination**, and that conversation revolves around a simple idea:
 
 **You are free to change the world.**
+</details>
 
-# **Appalachian Spring**
 
+
+
+
+
+<details>
+<summary>Appalachian Spring</summary>
 _Appalachian Spring: A Declaration of Post-American Autonomy_ forms an ideological groundwork from a zillennial political outsider for **preserving the Appalachian cultural identity** first **through US statehood**, and **then through independent sovereignty when the empire becomes too big to manage and collapses in on itself like the Soviet Union or the Roman Empire**.
 
 As an enthusiast of **free unconventional thinking**, I will be blending various elements of different ideologies, and I pray that brings discourse, but I truly believe that the confluence and amalgamation of these ideological elements will make sense to ground folk in an empireless North America, and specifically for the people of Appalachia.
@@ -801,5 +824,6 @@ The American peoples are exhausted, but **the American empire is exhausted too**
 **You are free to change the world.**
 
 _- unc plug -_
+</details>
 
 ///////////////////////////////////////////////////////////////////////////////////
