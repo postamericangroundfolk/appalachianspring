@@ -1,0 +1,60 @@
+/*
+ * Custom Minimalistic Novel Theme
+ */
+
+/* 1. Global Reading Setup */
+body {
+    font-family: 'Georgia', serif; /* Classic, readable serif font */
+    line-height: 1.6; /* Excellent line spacing for large blocks of text */
+    color: #333; /* Soft black text */
+    background-color: #fff; /* Clean white background */
+}
+
+/* Limit the width of the content for comfortable reading on large screens */
+.container {
+    max-width: 700px; /* Ideal reading measure is 65-75 characters per line */
+    margin: 40px auto; /* Center the content and add top/bottom padding */
+    padding: 0 20px;
+}
+
+/* 2. Typography and Headings */
+p {
+    margin-bottom: 1.5em;
+    font-size: 1.15em; /* Slightly larger base font size */
+}
+
+h1, h2, h3 {
+    font-family: 'Helvetica Neue', Arial, sans-serif; /* Clean sans-serif for titles */
+    color: #111;
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+    font-weight: 400; /* Lighter font weight for a sleek look */
+}
+
+h1 { font-size: 2.2em; }
+h2 { font-size: 1.7em; }
+h3 { font-size: 1.3em; }
+
+/* 3. Collapsible Chapters Styling (Based on your previous request) */
+details summary {
+    cursor: pointer;
+    padding: 10px 0;
+    margin-top: 30px;
+    /* Styles the heading inside the summary */
+    color: #000;
+    font-size: 1.4em;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+
+details summary:hover {
+    color: #555; /* Subtle hover effect */
+}
+
+/* Hide the default browser arrow for a cleaner look */
+details > summary {
+    list-style: none;
+}
+details > summary::-webkit-details-marker {
+    display: none;
+}
