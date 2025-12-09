@@ -1,6 +1,6 @@
 _unc plug_
 
-# Prologue
+<details><summary># Prologue</summary>
 
 Imagine for a moment, if ye may, that **you’ve opened your eyes for the very first time in your life**.
 
