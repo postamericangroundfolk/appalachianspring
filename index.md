@@ -1,3 +1,8 @@
+---
+layout: default 
+title: Appalachian Spring - A Declaration of Post-American Autonomy
+---
+
 _unc plug_
 
 # Prologue
