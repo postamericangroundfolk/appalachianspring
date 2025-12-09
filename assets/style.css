@@ -1,60 +1,60 @@
-/*
- * Custom Minimalistic Novel Theme
- */
+/* Custom styles for sleek navigation and readability */
 
-/* 1. Global Reading Setup */
+/* 1. Global Reading Setup (from previous response) */
 body {
-    font-family: 'Georgia', serif; /* Classic, readable serif font */
-    line-height: 1.6; /* Excellent line spacing for large blocks of text */
-    color: #333; /* Soft black text */
-    background-color: #fff; /* Clean white background */
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fff;
 }
-
-/* Limit the width of the content for comfortable reading on large screens */
 .container {
-    max-width: 700px; /* Ideal reading measure is 65-75 characters per line */
-    margin: 40px auto; /* Center the content and add top/bottom padding */
+    max-width: 700px;
+    margin: 40px auto;
     padding: 0 20px;
 }
-
-/* 2. Typography and Headings */
 p {
     margin-bottom: 1.5em;
-    font-size: 1.15em; /* Slightly larger base font size */
+    font-size: 1.15em;
 }
 
-h1, h2, h3 {
-    font-family: 'Helvetica Neue', Arial, sans-serif; /* Clean sans-serif for titles */
-    color: #111;
-    margin-top: 2em;
-    margin-bottom: 0.5em;
-    font-weight: 400; /* Lighter font weight for a sleek look */
-}
+/* 2. Collapsible Chapter Styling (The Key Addition) */
 
-h1 { font-size: 2.2em; }
-h2 { font-size: 1.7em; }
-h3 { font-size: 1.3em; }
-
-/* 3. Collapsible Chapters Styling (Based on your previous request) */
+/* Ensure the chapter title is clean and clickable */
 details summary {
     cursor: pointer;
-    padding: 10px 0;
+    padding: 15px 0;
     margin-top: 30px;
-    /* Styles the heading inside the summary */
-    color: #000;
+    margin-bottom: 10px;
+    color: #111;
     font-size: 1.4em;
     font-weight: 500;
+    border-bottom: 1px solid #eee; /* Subtle separator */
     transition: color 0.2s;
 }
 
 details summary:hover {
-    color: #555; /* Subtle hover effect */
+    color: #555;
 }
 
-/* Hide the default browser arrow for a cleaner look */
+/* Hide the default browser arrow/triangle */
 details > summary {
     list-style: none;
 }
 details > summary::-webkit-details-marker {
     display: none;
+}
+
+/* 3. Navigation Link Styling */
+.nav-link {
+    display: block;
+    margin-top: 3em;
+    text-align: right;
+    font-size: 1.2em;
+    text-decoration: none;
+    color: #000; /* Dark color for visibility */
+    font-weight: bold;
+}
+.nav-link:hover {
+    text-decoration: underline;
+    color: #333;
 }
