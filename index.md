@@ -1,6 +1,8 @@
+# Appalachian Spring: A Declaration of Post-American Autonomy
+
 _unc plug_
 
-<details><summary># Prologue</summary>
+<details><summary>Prologue</summary>
 
 Imagine for a moment, if ye may, that **you’ve opened your eyes for the very first time in your life**.
 
@@ -52,7 +54,7 @@ The red-headed stepchild of the cathedral, a suppressed creole nation of **mount
 
 "**Appalachian** **Spring**."
 
-# Appalachian Identity
+</details><details><summary>Appalachian Identity</summary>
 
 > _"If you call it apple aysha, I'll throw an apple atcha."_ - **Unknown**
 
@@ -138,7 +140,7 @@ I truly believe that **love always wins**, and I truly believe that **Appalachia
 
 > _“And no matter where I might roam, these hills and hollers are my home. I’ve got that sweet mountain spirit down in my veins.”_ - **Alan Johnston** / **Del McCoury**
 
-# Appalachian Exploitation
+</details><details><summary>Appalachian Exploitation</summary>
 
 > _"How many boys could they haul off this mountain? Shoot full of holes cuffed and layin in the streets? Til we come into town in a stark ravin anger looking for answers and armed to the teeth?"_ - **Tyler Childers**
 
@@ -380,7 +382,7 @@ I should also add that I am **not** suicidal and **I have my mental health under
 
 > _"Thirty-ought sixes, Pappaw's old pistol, how many do ya reckon? Would it be four or five? Or would that be the start of a long violent history of tucking our tails as we tried to abide?"_ - **Tyler Childers**
 
-# Appalachian Zoo
+</details><details><summary>Appalachian Zoo</summary>
 
 > "What's _a chummer to do in the Appalachian zoo? I'm Harambe and the bullets they're usin' are riotproof, no call for a truce... this is dead red aggression, rigged in elections, bred with cynicism and depression..._" - **Tantra Sweet**
 
@@ -612,7 +614,7 @@ You've always been free to do it. Folks around here been saying it for centuries
 
 **You are free to change the world.**
 
-# **Appalachian Spring**
+</details><details><summary>Appalachian Spring</summary>
 
 _Appalachian Spring: A Declaration of Post-American Autonomy_ forms an ideological groundwork from a zillennial political outsider for **preserving the Appalachian cultural identity** first **through US statehood**, and **then through independent sovereignty when the empire becomes too big to manage and collapses in on itself like the Soviet Union or the Roman Empire**.
 
