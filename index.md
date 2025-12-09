@@ -612,7 +612,7 @@ You've always been free to do it. Folks around here been saying it for centuries
 
 **You are free to change the world.**
 
-# **Appalachian Spring**
+# Appalachian Spring
 
 _Appalachian Spring: A Declaration of Post-American Autonomy_ forms an ideological groundwork from a zillennial political outsider for **preserving the Appalachian cultural identity** first **through US statehood**, and **then through independent sovereignty when the empire becomes too big to manage and collapses in on itself like the Soviet Union or the Roman Empire**.
 
