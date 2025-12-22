@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Transmission</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --coal-dark: #0a0a0a; /* Deepened for higher contrast */
+            --appalachian-rust: #b7410e;
+            --mist-white: #e0e0e0;
+        }
+
+        body {
+            background-color: var(--coal-dark);
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden; /* No scrolling needed */
+        }
+
+        .forbidden-link {
+            font-family: 'Oswald', sans-serif;
+            font-size: 1.5rem;
+            color: var(--mist-white);
+            text-decoration: none;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            text-align: center;
+            transition: all 0.5s ease;
+            position: relative;
+            animation: pulse 4s infinite ease-in-out;
+        }
+
+        .forbidden-link:hover {
+            color: var(--appalachian-rust);
+            letter-spacing: 6px;
+            cursor: pointer;
+        }
+
+        /* Subtle breathing animation */
+        @keyframes pulse {
+            0% { opacity: 0.3; }
+            50% { opacity: 1; }
+            100% { opacity: 0.3; }
+        }
+
+        /* Responsive scaling */
+        @media (max-width: 600px) {
+            .forbidden-link {
+                font-size: 1rem;
+                letter-spacing: 2px;
+                padding: 0 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <a href="Appalachian Spring - A Declaration of Post-American Autonomy - Copy.pdf" 
+       class="forbidden-link" 
+       target="_blank">
+        You are free to change the world.
+    </a>
+
+</body>
+</html>
